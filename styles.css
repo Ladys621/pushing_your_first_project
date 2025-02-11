@@ -1,6 +1,3 @@
-/* styles.css */
-
-/* Reset some default styles */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -11,7 +8,7 @@ body {
 
 h1 {
     text-align: center;
-    color: #4CAF50; /* Green color */
+    color: #4CAF50;
     margin-top: 20px;
     font-size: 2.5em;
 }
